@@ -1,0 +1,37 @@
+2018-03-20 1--- LOADING DOCUMENTS ---
+0 documents are loaded.
+--- FILTERING ---
+0 documents remained after filtering small documents (Documents removed: 0 ( 0 twitter, 0 sito, 0 facebook)).
+--- CLUSTERING WITH LINKS ---
+Document clusters with shared link: 0
+Documents in link cluster: 0
+TotBonds: 0
+TotBonds: 0   Same channel: 0   Different channel: 0
+Same newspaper: 0   Different newspaper: 0
+--- BUILDING GRAPH ---
+0 documents REMAINED after nodes and edges filtering.
+0 documents DELETED after nodes and edges filtering.
+N° nodes: 0
+N° edges: 0
+--- EXTRACT COMMUNITIES ---
+0 documents are in the extracted communities.
+0 documents are not in the extracted communities.
+Communities size after extractCommunities: 0
+Document Clusters (after extractClustersFromKeyCommunity) :::0
+--- MERGE SIMILAR CLUSTERS ---
+Document Clusters (after mergeSimilarClusters) :::0
+--- LINK CONTROL ---
+Document Clusters (after link control) :::0
+Document Clusters (after link control and merge) :::0
+--- ALGORITHM EVALUATION ---Clustered documents: 0
+Not clustered documents: 0
+possible TRUE POSITIVE: 0
+possible FALSE POSITIVE: 0
+possible FALSE NEGATIVE: 0
+possible TRUE NEGATIVE: 0
+TotBonds: 0
+TotBonds: 0   Same channel: 0   Different channel: 0
+Same newspaper: 0   Different newspaper: 0
+Cluster aggiunti 1
+Total time: 0.10176666666666666	Loading documents time: 0.10148333333333333	Clustering time: 2.8333333333333335E-4
+--- DONE! ---
