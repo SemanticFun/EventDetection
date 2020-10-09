@@ -1,0 +1,25 @@
+{
+   "somer": { 
+	 "host": "<<host>>",
+	 "port": <<port>>,
+	 "user": "<<username>>",
+	 "pass": "<<password>>",
+	 "dbname": "somernew"
+   },
+   "somer": { 
+	 "host": "<<host>>",
+	 "port": <<port>>,
+	 "user": "<<username>>",
+	 "pass": "<<password>>",
+	 "dbname": "cluster"
+   },
+   "config":{
+	"stopwordfile":"input_files/italian_stopwords.txt",
+	"outputfile":"output_files/out.txt",
+	"constants":"conf/TwitterConstants_newsfeed.txt",
+	"twitterConstants":"conf/TwitterConstants_newsfeed.txt",
+	"siteConstants":"conf/SiteConstants_newsfeed.txt",
+	"facebookConstants":"conf/FacebookConstants_newsfeed.txt",
+	"version": 3
+   }
+}
