@@ -4,14 +4,14 @@
 	 "port": <<port>>,
 	 "user": "<<username>>",
 	 "pass": "<<password>>",
-	 "dbname": "somernew"
+	 "dbname": "somer"
    },
-   "somer": { 
+   "clusters": { 
 	 "host": "<<host>>",
 	 "port": <<port>>,
 	 "user": "<<username>>",
 	 "pass": "<<password>>",
-	 "dbname": "cluster"
+	 "dbname": "clusters"
    },
    "config":{
 	"stopwordfile":"input_files/italian_stopwords.txt",
