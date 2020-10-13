@@ -6,7 +6,7 @@
 	 "pass": "<<password>>",
 	 "dbname": "somer"
    },
-   "clusters": { 
+   "cluster": { 
 	 "host": "<<host>>",
 	 "port": <<port>>,
 	 "user": "<<username>>",
