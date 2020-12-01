@@ -177,7 +177,7 @@ public class DataLoader {
 		
 		/* FILTERING: removing documents containing a low number of keywords. */
 		new WriteConsole("--- FILTERING ---\n");
-		File docsRemoved = new File("/tmp/keygraph_output/docsRemoved(small documents).txt");
+		File docsRemoved = new File("./tmp_keygraph_output/docsRemoved(small documents).txt");
     	docsRemoved.createNewFile();
     	DataOutputStream dremoved = new DataOutputStream(new FileOutputStream(docsRemoved));
     	dremoved.writeBytes("DocId\tChannel\tContent\n");

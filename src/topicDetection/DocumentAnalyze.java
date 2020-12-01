@@ -105,7 +105,7 @@ public class DocumentAnalyze {
 		new WriteConsole(filteredDocByKeywords.size() + " documents REMAINED after nodes and edges filtering.\n" + 
 				(docs.size() - filteredDocByKeywords.size()) + " documents DELETED after nodes and edges filtering.\n");
 		
-		File output2 = new File("/tmp/keygraph_output/documentsRemained(NodeAndEdgesFiltering).txt");
+		File output2 = new File("./tmp_keygraph_output/documentsRemained(NodeAndEdgesFiltering).txt");
     	try {
 			output2.createNewFile();
 			DataOutputStream docsRemained = new DataOutputStream(new FileOutputStream(output2));
@@ -118,7 +118,7 @@ public class DocumentAnalyze {
 			e1.printStackTrace();
 		}
     	
-    	File output3 = new File("/tmp/keygraph_output/documentsDeleted(NodeAndEdgesFiltering).txt");
+    	File output3 = new File("./tmp_keygraph_output/documentsDeleted(NodeAndEdgesFiltering).txt");
     	try {
 			output3.createNewFile();
 			DataOutputStream docsDeleted = new DataOutputStream(new FileOutputStream(output3));
@@ -520,7 +520,7 @@ public class DocumentAnalyze {
 	 * @throws IOException 
 	 */
 	public static void printTopics(Collection<DocumentCluster> clusters, PrintStream out, HashMap<String, Document> docs, String date_start, int days) throws ClassNotFoundException, SQLException, ParseException, IOException, JSONException {
-		File dir = new File("/tmp/keygraph_output/toLoadFiles");
+		File dir = new File("./tmp_keygraph_output/toLoadFiles");
 		dir.mkdir();
 		
 		//se si desidera modificare le colonne da visualizzare occorre agire anche su questo file!!

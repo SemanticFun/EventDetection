@@ -14,8 +14,8 @@ public class WriteConsole {
 	/** Costruttore che scrive i dati della console**/
 	public WriteConsole(String text) {
 		try {
-			File file = new File("/home/tomcat/keygraph/console.txt");
-			//File file = new File("./console.txt");
+			//File file = new File("/home/tomcat/keygraph/console.txt");
+			File file = new File("./console.txt");
 
 			// Se il file non esiste lo si crea
 			if (!file.exists()) {
@@ -35,8 +35,8 @@ public class WriteConsole {
 		sdf.applyPattern("dd/MM/yy HH:mm");
 		String dataStr = sdf.format(new Date());
 		try {
-			File file = new File("/home/tomcat/keygraph/errorLog.txt");
-			//File file = new File("./errorLog.txt");
+			//File file = new File("/home/tomcat/keygraph/errorLog.txt");
+			File file = new File("./errorLog.txt");
 
 			// Se il file non esiste lo si crea
 			if (!file.exists()) {

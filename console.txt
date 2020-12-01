@@ -35,3 +35,2202 @@ Same newspaper: 0   Different newspaper: 0
 Cluster aggiunti 1
 Total time: 0.10176666666666666	Loading documents time: 0.10148333333333333	Clustering time: 2.8333333333333335E-4
 --- DONE! ---
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+3895 documents are loaded.
+--- FILTERING ---
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+3895 documents are loaded.
+--- FILTERING ---
+3732 documents remained after filtering small documents (Documents removed: 163 ( 28 twitter, 8 sito, 127 facebook)).
+--- CLUSTERING WITH LINKS ---
+Document clusters with shared link: 132
+Documents in link cluster: 295
+TotBonds: 204
+TotBonds: 204   Same channel: 119   Different channel: 85
+Same newspaper: 188   Different newspaper: 16
+--- BUILDING GRAPH ---
+2808 documents REMAINED after nodes and edges filtering.
+924 documents DELETED after nodes and edges filtering.
+N° nodes: 1178
+N° edges: 543
+--- EXTRACT COMMUNITIES ---
+Find Communities: 5 nodes
+€™orrore, ossa, pamela, pozzo, oseghale, 
+Find Communities: 5 nodes
+rock, stile, svariati, solista, sperimentando, 
+Find Communities: 10 nodes
+uccisi, violenti, scritte, testa, sbarrata, roberto, spada, ritrovato, spagnolo, stravagante, 
+Find Communities: 10 nodes
+scava, serie, resti, trova, tesoro, tezo, rodriguez, turno, scomparso, terza, 
+Find Communities: 8 nodes
+sbilancia, ragazzi, riferire, sa, scudetto, tramite, torino, sentiva, 
+Find Communities: 6 nodes
+stabilizzazione, sgroi, reddito, scrive, sottoccupati, sembrano, 
+Find Communities: 10 nodes
+risposte, terremoto, rosse, siena, responsabili, senese, sindaci, responsabilitã , salvini, scossa, 
+Find Communities: 15 nodes
+spagna, soggiorno, stampa, real, scena, sicuro, speciale, roma, re, tratto, sfida, tassa, sorvegliata, spero, strada, 
+Find Communities: 5 nodes
+turchia, scalo, rimasti, sicurezza, tir, 
+Find Communities: 8 nodes
+sky, terrestre, tv, servita, sistema, satellite, tycoon, storico, 
+Find Communities: 8 nodes
+stazione, tecnico, ritardi, tiangong1, spaziale, termine, tiangong, rientro, 
+Find Communities: 3 nodes
+istanbul, italia, huffpost, 
+Find Communities: 3 nodes
+racconto, radiomobile, salvato, 
+Find Communities: 10 nodes
+migrazioni, leader, luigi, lasciato, m5s, leggenda, matteo, marina, locale, legi, 
+Find Communities: 6 nodes
+maggiorato, mamma, muore, medici, lavorava, maurizio, 
+Find Communities: 14 nodes
+militato, morendo, luoghi, on, nato, morã¬, musicali, mondo, my, marzo, lunghi, nasce, novecento, numero, 
+Find Communities: 10 nodes
+play, napoli, moggi, playâ, motivi, macellai, obbligato, mister, milan, off, 
+Find Communities: 10 nodes
+napoli, olanda, pubblicato, private, papa, poesie, originali, panorama, operato, paura, 
+Find Communities: 2 nodes
+rompono, succede, 
+Find Communities: 2 nodes
+santo, rito, 
+Find Communities: 13 nodes
+collaborato, corsa, clapton, artista, annoverato, cream, affermarsi, blues, chitarra, acclamati, arco, carriera, augura, 
+Find Communities: 13 nodes
+dramma, dolcissimo, divenuto, cantautore, califano, etã , considerano, disegno, dipinti, complesso, carriera, canzoni, discreto, 
+Find Communities: 13 nodes
+compiere, collaborato, contestato, copia, eurovision, go, eux, dion, canadese, celine, francofono, cantante, colonna, 
+Find Communities: 4 nodes
+indimenticabile, iniziativa, go, heart, 
+Find Communities: 3 nodes
+studente, ragazzine, ricattateâ, 
+Find Communities: 4 nodes
+ð½, ð²ð, ñ?, ðµ, 
+Find Communities: 13 nodes
+chiuso, bus, aeroporto, concept, confronti, craxi, crucis, disabili, dedicata, colosseo, devo, difensore, costretti, 
+Find Communities: 3 nodes
+bloccati, calolziocorte, dirette, 
+Find Communities: 2 nodes
+espulsi, diplomatici, 
+Find Communities: 2 nodes
+tirrenia, spiaggia, 
+Find Communities: 3 nodes
+promozione, onu, proposto, 
+Find Communities: 2 nodes
+cnn, dipendente, 
+Find Communities: 8 nodes
+casco, capitale, entrate, empoli, diventare, frosinone, ciclomotori, calo, 
+Find Communities: 4 nodes
+carabinieri, decisione, cori, denunciato, 
+Find Communities: 2 nodes
+€™ordine, provinciale, 
+Find Communities: 2 nodes
+pugilato, oro, 
+Find Communities: 6 nodes
+correre, elezioni, berlusconi, clamorosa, accordo, decidere, 
+Find Communities: 13 nodes
+corte, dg, discarica, elezioni, esclusiva, consigli, comunali, dolce, delibera, conti, comune, decreto, domenica, 
+Find Communities: 7 nodes
+cade, bari, aggredirono, casa, cittadella, dossier, distacco, 
+Find Communities: 2 nodes
+cancelli, caos, 
+Find Communities: 2 nodes
+squadre, ricorda, 
+Find Communities: 4 nodes
+batshuayi, chants, commentato, attaccante, 
+Find Communities: 6 nodes
+trend, rosa, tonic, vegan, uova, salito, 
+Find Communities: 11 nodes
+br, €™aeroflot, appena, blitz, blindata, boss, arrestato, assalto, atterrata, aereo, bancomat, 
+Find Communities: 12 nodes
+conferenza, capi, brigadiere, donna, #bolognaâ, cittã , disse, avvocato, bollino, aguzzino, cercata, bologna, 
+Find Communities: 6 nodes
+emergenza, club, disponibili, barcellona, chiamati, convocati, 
+Find Communities: 3 nodes
+cavallo, dolomiti, corones, 
+Find Communities: 3 nodes
+bilancio, confine, day, 
+Find Communities: 3 nodes
+servosterzo, tesla, richiama, 
+Find Communities: 3 nodes
+scagiona, twitter, uefa, 
+Find Communities: 3 nodes
+russa, skripal, scotlan, 
+Find Communities: 2 nodes
+finanziarie, guai, 
+Find Communities: 2 nodes
+investire, hotel, 
+Find Communities: 3 nodes
+medicina, lacrime, messaggeri, 
+Find Communities: 6 nodes
+torna, scappano, sicilia, stadium, under, siria, 
+Find Communities: 7 nodes
+casse, costa, documento, bando, criminale, crescita, ancona, 
+Find Communities: 7 nodes
+#camorraâ, corpo, broker, cartello, diversi, camorra, colpiscono, 
+Find Communities: 2 nodes
+finale, gran, 
+Find Communities: 2 nodes
+nicki, mack, 
+Find Communities: 2 nodes
+espelle, funzionario, 
+Find Communities: 2 nodes
+primavera, osservata, 
+Find Communities: 4 nodes
+barone, don, esorcista, contatti, 
+Find Communities: 2 nodes
+commemorare, disposto, 
+Find Communities: 3 nodes
+ducati, count, down, 
+Find Communities: 3 nodes
+pd, opposizione, provano, 
+Find Communities: 5 nodes
+debitori, banco, cambia, camaleonti, azzerano, 
+Find Communities: 4 nodes
+capitaneria, affonda, barca, capri, 
+Find Communities: 3 nodes
+hamsik, infermeria, hysaj, 
+Find Communities: 2 nodes
+apple, batteri, 
+Find Communities: 2 nodes
+basso, city, 
+Find Communities: 2 nodes
+#lacrime, #medicina, 
+Find Communities: 2 nodes
+elenco, facebook, 
+Find Communities: 2 nodes
+#chelsea, #bayern, 
+Find Communities: 3 nodes
+empolese, disagi, consegnata, 
+Find Communities: 2 nodes
+suocero, stupro, 
+Find Communities: 2 nodes
+ballottaggio, amministrative, 
+Find Communities: 6 nodes
+song, storia, successo, titanic, thompson, sonora, 
+Find Communities: 4 nodes
+riservate, ricovero, registrã², soccorso, 
+Find Communities: 5 nodes
+clou, chelsea, end, dortmund, bayern, 
+Find Communities: 4 nodes
+can, allegri, bianconero, bonucci, 
+Find Communities: 11 nodes
+fiamme, gaza, hamas, feriti, gas, eric, fuga, gruppo, famoso, €™esercito, fondi, 
+Find Communities: 4 nodes
+utilizzando, saint, tropez, tr, 
+Find Communities: 2 nodes
+trasferisce, umiliata, 
+Find Communities: 2 nodes
+aurelia, bolognesi, 
+Find Communities: 3 nodes
+schiave, reclutavano, sessuale, 
+Find Communities: 2 nodes
+furto, gabbie, 
+Find Communities: 2 nodes
+gennaio, fano, 
+Find Communities: 5 nodes
+festival, gaeta, giovani, grafico, felicitã , 
+Find Communities: 3 nodes
+sampdoria, risposteâ, riscatto, 
+Find Communities: 2 nodes
+outlet, noventa, 
+Find Communities: 2 nodes
+ritorno, svela, 
+Find Communities: 5 nodes
+fedeli, firme, gattuso, folla, guida, 
+Find Communities: 4 nodes
+partner, q8, perform, porsche, 
+Find Communities: 3 nodes
+forza, governo, fb, 
+Find Communities: 3 nodes
+giocare, fq, frase, 
+Find Communities: 3 nodes
+digitale, edizione, eccoti, 
+Find Communities: 3 nodes
+livelli, negozio, medita, 
+Find Communities: 2 nodes
+kluivert, jr, 
+Find Communities: 2 nodes
+india, jv, 
+Find Communities: 2 nodes
+attenzione, ballardini, 
+Find Communities: 2 nodes
+15mila, 20mila, 
+Find Communities: 2 nodes
+#napoli, #olanda, 
+Find Communities: 2 nodes
+balducci, andrew, 
+Find Communities: 2 nodes
+carnevali, dichiarazioni, 
+Find Communities: 5 nodes
+renziani, skrip, scontro, renzi, rivolta, 
+Find Communities: 3 nodes
+mosca, nega, londra, 
+Find Communities: 2 nodes
+chiusura, borsa, 
+Find Communities: 3 nodes
+ladri, messico, legale, 
+Find Communities: 2 nodes
+salerno, romaâ, 
+Find Communities: 6 nodes
+commissariata, correntisti, bcc, eccesso, difesa, cittanova, 
+Find Communities: 2 nodes
+laziale, magazzino, 
+Find Communities: 2 nodes
+natura, musei, 
+Find Communities: 2 nodes
+morti, land, 
+Find Communities: 2 nodes
+busta, carreno, 
+Find Communities: 7 nodes
+#beneventoâ, buco, arrivate, basata, alibi, benevento, crostacei, 
+Find Communities: 2 nodes
+detenuto, coeli, 
+Find Communities: 2 nodes
+attenti, berardi, 
+Find Communities: 2 nodes
+pranzo, offerte, 
+Find Communities: 2 nodes
+risarcimento, somalo, 
+Find Communities: 2 nodes
+bimbe, choc, 
+Find Communities: 5 nodes
+maggiorenni, operaio, obbligatorio, prognosi, normativa, 
+Find Communities: 2 nodes
+dentiâ, coltello, 
+Find Communities: 3 nodes
+sabato, regione, temporali, 
+Find Communities: 2 nodes
+los, mette, 
+Find Communities: 2 nodes
+#scotlandyard, #russia, 
+Find Communities: 4 nodes
+fermo, fair, giocatori, genoa, 
+Find Communities: 3 nodes
+quirico, persone, orcia, 
+Find Communities: 2 nodes
+beneâ, carica, 
+Find Communities: 2 nodes
+determinato, cutrone, 
+Find Communities: 2 nodes
+ovest, nba, 
+Find Communities: 3 nodes
+incidere, juventus, ioâ, 
+Find Communities: 2 nodes
+#serieb, #rodriguez, 
+Find Communities: 2 nodes
+oroscopo, prevede, 
+Find Communities: 2 nodes
+guardia, finanziamento, 
+Find Communities: 2 nodes
+intenzionato, insiste, 
+Find Communities: 2 nodes
+macerata, lesioni, 
+Find Communities: 2 nodes
+#spagna, #realmadrid, 
+Find Communities: 3 nodes
+assenza, crotone, badelj, 
+Find Communities: 2 nodes
+turista, san, 
+Find Communities: 2 nodes
+inter, juve, 
+Find Communities: 3 nodes
+schwarzenegger, urgenza, terminator, 
+Find Communities: 2 nodes
+social, risponde, 
+Find Communities: 3 nodes
+silvio, riabilitazione, riporta, 
+Find Communities: 2 nodes
+vigilia, wolverine, 
+Find Communities: 2 nodes
+milano, lombardia, 
+Find Communities: 2 nodes
+#allegri, #bonucci, 
+Find Communities: 2 nodes
+ormoni, pillola, 
+Find Communities: 2 nodes
+riacceso, serrone, 
+Find Communities: 2 nodes
+adescate, accusato, 
+Find Communities: 3 nodes
+€™appello, bellenger, capodimonte, 
+Find Communities: 2 nodes
+giallorosso, francesco, 
+Find Communities: 2 nodes
+selvatico, ritraggono, 
+Find Communities: 2 nodes
+animali, amici, 
+Find Communities: 2 nodes
+#terminator, #schwarzenegger, 
+Find Communities: 2 nodes
+associazioni, bambini, 
+Find Communities: 3 nodes
+venduta, willie, vittoria, 
+Find Communities: 2 nodes
+superiore, rino, 
+Find Communities: 2 nodes
+magico, notte, 
+Find Communities: 2 nodes
+predatori, odore, 
+Find Communities: 3 nodes
+sedie, tara, tariffe, 
+Find Communities: 2 nodes
+alisson, #alissonâ, 
+Find Communities: 2 nodes
+culturali, ben, 
+Find Communities: 2 nodes
+allarmante, bomba, 
+Find Communities: 2 nodes
+cari, denti, 
+2795 documents are in the extracted communities.
+13 documents are not in the extracted communities.
+Communities size after extractCommunities: 164
+Document Clusters (after extractClustersFromKeyCommunity) :::127
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1721669, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.21 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.22 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.23 	[1722706, 1723578, 1723699]
+DocumentCluster n.24 	[1722706, 1723578, 1723699]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.28 	[1721700, 1721702, 1721695]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1723218, 1723576, 1721728]
+DocumentCluster n.60 	[1722952, 1724626, 1723388]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.71 	[1724213, 1724111]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.77 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.78 	[1721461, 1721607, 1722718]
+DocumentCluster n.79 	[1722043, 1722057]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.84 	[1724706, 1722937, 1724656]
+DocumentCluster n.85 	[1722316, 1723162, 1723576, 1721728, 1722660]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.112 	[1723378, 1722220]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.120 	[1723360, 1723364]
+DocumentCluster n.121 	[1721461, 1721607, 1722718]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.124 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.149 	[1722206, 1721275, 1722202]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1722634, 1724476]
+DocumentCluster n.153 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.154 	[1724108, 1724090, 1724210]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- MERGE SIMILAR CLUSTERS ---
+Document Clusters (after mergeSimilarClusters) :::109
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- LINK CONTROL ---
+Inserito documento 1723970 in cluster 7
+Inserito documento 1723962 in cluster 7
+Inserito documento 1723968 in cluster 7
+Inserito documento 1724628 in cluster 10
+Inserito documento 1723108 in cluster 11
+Inserito documento 1723270 in cluster 11
+Inserito documento 1722950 in cluster 15
+Inserito documento 1723867 in cluster 17
+Inserito documento 1722229 in cluster 37
+Inserito documento 1724147 in cluster 51
+Inserito documento 1723117 in cluster 81
+Inserito documento 1723279 in cluster 81
+Inserito documento 1724113 in cluster 81
+Inserito documento 1724215 in cluster 81
+Inserito documento 1724107 in cluster 86
+Inserito documento 1723698 in cluster 86
+Inserito documento 1722515 in cluster 102
+Inserito documento 1721281 in cluster 105
+Inserito documento 1721620 in cluster 105
+Inserito documento 1722519 in cluster 137
+Inserito documento 1723107 in cluster 143
+Inserito documento 1723269 in cluster 143
+Document Clusters (after link control) :::109
+Document Clusters (after link control and merge) :::107
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1723968, 1724074, 1724607, 1721260, 1721957, 1723962, 1724199, 1723970]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724628, 1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723270, 1724592, 1722155, 1722663, 1724677, 1722156, 1723837, 1724569, 1724537, 1724417, 1723108, 1722818, 1722819]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1722950, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723867, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1721461, 1721284, 1720795, 1720793, 1720781, 1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721607, 1722718, 1722927]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1722229, 1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1723403, 1724181, 1723181, 1723413, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388, 1724147]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723117, 1723648, 1723279, 1724215, 1724113]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724107, 1724092, 1724209, 1724104, 1724236, 1723698]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1722515, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721281, 1721280, 1721619, 1721620]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1722519, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1723107, 1722010, 1723269]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- ALGORITHM EVALUATION ---Clustered documents: 500
+Not clustered documents: 3232
+possible TRUE POSITIVE: 489
+possible FALSE POSITIVE: 11
+possible FALSE NEGATIVE: 500
+possible TRUE NEGATIVE: 2732
+TotBonds: 1438
+TotBonds: 1438   Same channel: 728   Different channel: 710
+Same newspaper: 570   Different newspaper: 868
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+3895 documents are loaded.
+--- FILTERING ---
+3732 documents remained after filtering small documents (Documents removed: 163 ( 28 twitter, 8 sito, 127 facebook)).
+--- CLUSTERING WITH LINKS ---
+Document clusters with shared link: 132
+Documents in link cluster: 295
+TotBonds: 204
+TotBonds: 204   Same channel: 119   Different channel: 85
+Same newspaper: 188   Different newspaper: 16
+--- BUILDING GRAPH ---
+2808 documents REMAINED after nodes and edges filtering.
+924 documents DELETED after nodes and edges filtering.
+N° nodes: 1178
+N° edges: 543
+--- EXTRACT COMMUNITIES ---
+Find Communities: 5 nodes
+€™orrore, ossa, pamela, pozzo, oseghale, 
+Find Communities: 5 nodes
+rock, stile, svariati, solista, sperimentando, 
+Find Communities: 10 nodes
+uccisi, violenti, scritte, testa, sbarrata, roberto, spada, ritrovato, spagnolo, stravagante, 
+Find Communities: 10 nodes
+scava, serie, resti, trova, tesoro, tezo, rodriguez, turno, scomparso, terza, 
+Find Communities: 8 nodes
+sbilancia, ragazzi, riferire, sa, scudetto, tramite, torino, sentiva, 
+Find Communities: 6 nodes
+stabilizzazione, sgroi, reddito, scrive, sottoccupati, sembrano, 
+Find Communities: 10 nodes
+risposte, terremoto, rosse, siena, responsabili, senese, sindaci, responsabilitã , salvini, scossa, 
+Find Communities: 15 nodes
+spagna, soggiorno, stampa, real, scena, sicuro, speciale, roma, re, tratto, sfida, tassa, sorvegliata, spero, strada, 
+Find Communities: 5 nodes
+turchia, scalo, rimasti, sicurezza, tir, 
+Find Communities: 8 nodes
+sky, terrestre, tv, servita, sistema, satellite, tycoon, storico, 
+Find Communities: 8 nodes
+stazione, tecnico, ritardi, tiangong1, spaziale, termine, tiangong, rientro, 
+Find Communities: 3 nodes
+istanbul, italia, huffpost, 
+Find Communities: 3 nodes
+racconto, radiomobile, salvato, 
+Find Communities: 10 nodes
+migrazioni, leader, luigi, lasciato, m5s, leggenda, matteo, marina, locale, legi, 
+Find Communities: 6 nodes
+maggiorato, mamma, muore, medici, lavorava, maurizio, 
+Find Communities: 14 nodes
+militato, morendo, luoghi, on, nato, morã¬, musicali, mondo, my, marzo, lunghi, nasce, novecento, numero, 
+Find Communities: 10 nodes
+play, napoli, moggi, playâ, motivi, macellai, obbligato, mister, milan, off, 
+Find Communities: 10 nodes
+napoli, olanda, pubblicato, private, papa, poesie, originali, panorama, operato, paura, 
+Find Communities: 2 nodes
+rompono, succede, 
+Find Communities: 2 nodes
+santo, rito, 
+Find Communities: 13 nodes
+collaborato, corsa, clapton, artista, annoverato, cream, affermarsi, blues, chitarra, acclamati, arco, carriera, augura, 
+Find Communities: 13 nodes
+dramma, dolcissimo, divenuto, cantautore, califano, etã , considerano, disegno, dipinti, complesso, carriera, canzoni, discreto, 
+Find Communities: 13 nodes
+compiere, collaborato, contestato, copia, eurovision, go, eux, dion, canadese, celine, francofono, cantante, colonna, 
+Find Communities: 4 nodes
+indimenticabile, iniziativa, go, heart, 
+Find Communities: 3 nodes
+studente, ragazzine, ricattateâ, 
+Find Communities: 4 nodes
+ð½, ð²ð, ñ?, ðµ, 
+Find Communities: 13 nodes
+chiuso, bus, aeroporto, concept, confronti, craxi, crucis, disabili, dedicata, colosseo, devo, difensore, costretti, 
+Find Communities: 3 nodes
+bloccati, calolziocorte, dirette, 
+Find Communities: 2 nodes
+espulsi, diplomatici, 
+Find Communities: 2 nodes
+tirrenia, spiaggia, 
+Find Communities: 3 nodes
+promozione, onu, proposto, 
+Find Communities: 2 nodes
+cnn, dipendente, 
+Find Communities: 8 nodes
+casco, capitale, entrate, empoli, diventare, frosinone, ciclomotori, calo, 
+Find Communities: 4 nodes
+carabinieri, decisione, cori, denunciato, 
+Find Communities: 2 nodes
+€™ordine, provinciale, 
+Find Communities: 2 nodes
+pugilato, oro, 
+Find Communities: 6 nodes
+correre, elezioni, berlusconi, clamorosa, accordo, decidere, 
+Find Communities: 13 nodes
+corte, dg, discarica, elezioni, esclusiva, consigli, comunali, dolce, delibera, conti, comune, decreto, domenica, 
+Find Communities: 7 nodes
+cade, bari, aggredirono, casa, cittadella, dossier, distacco, 
+Find Communities: 2 nodes
+cancelli, caos, 
+Find Communities: 2 nodes
+squadre, ricorda, 
+Find Communities: 4 nodes
+batshuayi, chants, commentato, attaccante, 
+Find Communities: 6 nodes
+trend, rosa, tonic, vegan, uova, salito, 
+Find Communities: 11 nodes
+br, €™aeroflot, appena, blitz, blindata, boss, arrestato, assalto, atterrata, aereo, bancomat, 
+Find Communities: 12 nodes
+conferenza, capi, brigadiere, donna, #bolognaâ, cittã , disse, avvocato, bollino, aguzzino, cercata, bologna, 
+Find Communities: 6 nodes
+emergenza, club, disponibili, barcellona, chiamati, convocati, 
+Find Communities: 3 nodes
+cavallo, dolomiti, corones, 
+Find Communities: 3 nodes
+bilancio, confine, day, 
+Find Communities: 3 nodes
+servosterzo, tesla, richiama, 
+Find Communities: 3 nodes
+scagiona, twitter, uefa, 
+Find Communities: 3 nodes
+russa, skripal, scotlan, 
+Find Communities: 2 nodes
+finanziarie, guai, 
+Find Communities: 2 nodes
+investire, hotel, 
+Find Communities: 3 nodes
+medicina, lacrime, messaggeri, 
+Find Communities: 6 nodes
+torna, scappano, sicilia, stadium, under, siria, 
+Find Communities: 7 nodes
+casse, costa, documento, bando, criminale, crescita, ancona, 
+Find Communities: 7 nodes
+#camorraâ, corpo, broker, cartello, diversi, camorra, colpiscono, 
+Find Communities: 2 nodes
+finale, gran, 
+Find Communities: 2 nodes
+nicki, mack, 
+Find Communities: 2 nodes
+espelle, funzionario, 
+Find Communities: 2 nodes
+primavera, osservata, 
+Find Communities: 4 nodes
+barone, don, esorcista, contatti, 
+Find Communities: 2 nodes
+commemorare, disposto, 
+Find Communities: 3 nodes
+ducati, count, down, 
+Find Communities: 3 nodes
+pd, opposizione, provano, 
+Find Communities: 5 nodes
+debitori, banco, cambia, camaleonti, azzerano, 
+Find Communities: 4 nodes
+capitaneria, affonda, barca, capri, 
+Find Communities: 3 nodes
+hamsik, infermeria, hysaj, 
+Find Communities: 2 nodes
+apple, batteri, 
+Find Communities: 2 nodes
+basso, city, 
+Find Communities: 2 nodes
+#lacrime, #medicina, 
+Find Communities: 2 nodes
+elenco, facebook, 
+Find Communities: 2 nodes
+#chelsea, #bayern, 
+Find Communities: 3 nodes
+empolese, disagi, consegnata, 
+Find Communities: 2 nodes
+suocero, stupro, 
+Find Communities: 2 nodes
+ballottaggio, amministrative, 
+Find Communities: 6 nodes
+song, storia, successo, titanic, thompson, sonora, 
+Find Communities: 4 nodes
+riservate, ricovero, registrã², soccorso, 
+Find Communities: 5 nodes
+clou, chelsea, end, dortmund, bayern, 
+Find Communities: 4 nodes
+can, allegri, bianconero, bonucci, 
+Find Communities: 11 nodes
+fiamme, gaza, hamas, feriti, gas, eric, fuga, gruppo, famoso, €™esercito, fondi, 
+Find Communities: 4 nodes
+utilizzando, saint, tropez, tr, 
+Find Communities: 2 nodes
+trasferisce, umiliata, 
+Find Communities: 2 nodes
+aurelia, bolognesi, 
+Find Communities: 3 nodes
+schiave, reclutavano, sessuale, 
+Find Communities: 2 nodes
+furto, gabbie, 
+Find Communities: 2 nodes
+gennaio, fano, 
+Find Communities: 5 nodes
+festival, gaeta, giovani, grafico, felicitã , 
+Find Communities: 3 nodes
+sampdoria, risposteâ, riscatto, 
+Find Communities: 2 nodes
+outlet, noventa, 
+Find Communities: 2 nodes
+ritorno, svela, 
+Find Communities: 5 nodes
+fedeli, firme, gattuso, folla, guida, 
+Find Communities: 4 nodes
+partner, q8, perform, porsche, 
+Find Communities: 3 nodes
+forza, governo, fb, 
+Find Communities: 3 nodes
+giocare, fq, frase, 
+Find Communities: 3 nodes
+digitale, edizione, eccoti, 
+Find Communities: 3 nodes
+livelli, negozio, medita, 
+Find Communities: 2 nodes
+kluivert, jr, 
+Find Communities: 2 nodes
+india, jv, 
+Find Communities: 2 nodes
+attenzione, ballardini, 
+Find Communities: 2 nodes
+15mila, 20mila, 
+Find Communities: 2 nodes
+#napoli, #olanda, 
+Find Communities: 2 nodes
+balducci, andrew, 
+Find Communities: 2 nodes
+carnevali, dichiarazioni, 
+Find Communities: 5 nodes
+renziani, skrip, scontro, renzi, rivolta, 
+Find Communities: 3 nodes
+mosca, nega, londra, 
+Find Communities: 2 nodes
+chiusura, borsa, 
+Find Communities: 3 nodes
+ladri, messico, legale, 
+Find Communities: 2 nodes
+salerno, romaâ, 
+Find Communities: 6 nodes
+commissariata, correntisti, bcc, eccesso, difesa, cittanova, 
+Find Communities: 2 nodes
+laziale, magazzino, 
+Find Communities: 2 nodes
+natura, musei, 
+Find Communities: 2 nodes
+morti, land, 
+Find Communities: 2 nodes
+busta, carreno, 
+Find Communities: 7 nodes
+#beneventoâ, buco, arrivate, basata, alibi, benevento, crostacei, 
+Find Communities: 2 nodes
+detenuto, coeli, 
+Find Communities: 2 nodes
+attenti, berardi, 
+Find Communities: 2 nodes
+pranzo, offerte, 
+Find Communities: 2 nodes
+risarcimento, somalo, 
+Find Communities: 2 nodes
+bimbe, choc, 
+Find Communities: 5 nodes
+maggiorenni, operaio, obbligatorio, prognosi, normativa, 
+Find Communities: 2 nodes
+dentiâ, coltello, 
+Find Communities: 3 nodes
+sabato, regione, temporali, 
+Find Communities: 2 nodes
+los, mette, 
+Find Communities: 2 nodes
+#scotlandyard, #russia, 
+Find Communities: 4 nodes
+fermo, fair, giocatori, genoa, 
+Find Communities: 3 nodes
+quirico, persone, orcia, 
+Find Communities: 2 nodes
+beneâ, carica, 
+Find Communities: 2 nodes
+determinato, cutrone, 
+Find Communities: 2 nodes
+ovest, nba, 
+Find Communities: 3 nodes
+incidere, juventus, ioâ, 
+Find Communities: 2 nodes
+#serieb, #rodriguez, 
+Find Communities: 2 nodes
+oroscopo, prevede, 
+Find Communities: 2 nodes
+guardia, finanziamento, 
+Find Communities: 2 nodes
+intenzionato, insiste, 
+Find Communities: 2 nodes
+macerata, lesioni, 
+Find Communities: 2 nodes
+#spagna, #realmadrid, 
+Find Communities: 3 nodes
+assenza, crotone, badelj, 
+Find Communities: 2 nodes
+turista, san, 
+Find Communities: 2 nodes
+inter, juve, 
+Find Communities: 3 nodes
+schwarzenegger, urgenza, terminator, 
+Find Communities: 2 nodes
+social, risponde, 
+Find Communities: 3 nodes
+silvio, riabilitazione, riporta, 
+Find Communities: 2 nodes
+vigilia, wolverine, 
+Find Communities: 2 nodes
+milano, lombardia, 
+Find Communities: 2 nodes
+#allegri, #bonucci, 
+Find Communities: 2 nodes
+ormoni, pillola, 
+Find Communities: 2 nodes
+riacceso, serrone, 
+Find Communities: 2 nodes
+adescate, accusato, 
+Find Communities: 3 nodes
+€™appello, bellenger, capodimonte, 
+Find Communities: 2 nodes
+giallorosso, francesco, 
+Find Communities: 2 nodes
+selvatico, ritraggono, 
+Find Communities: 2 nodes
+animali, amici, 
+Find Communities: 2 nodes
+#terminator, #schwarzenegger, 
+Find Communities: 2 nodes
+associazioni, bambini, 
+Find Communities: 3 nodes
+venduta, willie, vittoria, 
+Find Communities: 2 nodes
+superiore, rino, 
+Find Communities: 2 nodes
+magico, notte, 
+Find Communities: 2 nodes
+predatori, odore, 
+Find Communities: 3 nodes
+sedie, tara, tariffe, 
+Find Communities: 2 nodes
+alisson, #alissonâ, 
+Find Communities: 2 nodes
+culturali, ben, 
+Find Communities: 2 nodes
+allarmante, bomba, 
+Find Communities: 2 nodes
+cari, denti, 
+2795 documents are in the extracted communities.
+13 documents are not in the extracted communities.
+Communities size after extractCommunities: 164
+Document Clusters (after extractClustersFromKeyCommunity) :::127
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1721669, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.21 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.22 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.23 	[1722706, 1723578, 1723699]
+DocumentCluster n.24 	[1722706, 1723578, 1723699]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.28 	[1721700, 1721702, 1721695]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1723218, 1723576, 1721728]
+DocumentCluster n.60 	[1722952, 1724626, 1723388]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.71 	[1724213, 1724111]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.77 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.78 	[1721461, 1721607, 1722718]
+DocumentCluster n.79 	[1722043, 1722057]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.84 	[1724706, 1722937, 1724656]
+DocumentCluster n.85 	[1722316, 1723162, 1723576, 1721728, 1722660]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.112 	[1723378, 1722220]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.120 	[1723360, 1723364]
+DocumentCluster n.121 	[1721461, 1721607, 1722718]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.124 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.149 	[1722206, 1721275, 1722202]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1722634, 1724476]
+DocumentCluster n.153 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.154 	[1724108, 1724090, 1724210]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- MERGE SIMILAR CLUSTERS ---
+Document Clusters (after mergeSimilarClusters) :::109
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- LINK CONTROL ---
+Inserito documento 1723970 in cluster 7
+Inserito documento 1723962 in cluster 7
+Inserito documento 1723968 in cluster 7
+Inserito documento 1724628 in cluster 10
+Inserito documento 1723108 in cluster 11
+Inserito documento 1723270 in cluster 11
+Inserito documento 1722950 in cluster 15
+Inserito documento 1723867 in cluster 17
+Inserito documento 1722229 in cluster 37
+Inserito documento 1724147 in cluster 51
+Inserito documento 1723117 in cluster 81
+Inserito documento 1723279 in cluster 81
+Inserito documento 1724113 in cluster 81
+Inserito documento 1724215 in cluster 81
+Inserito documento 1724107 in cluster 86
+Inserito documento 1723698 in cluster 86
+Inserito documento 1722515 in cluster 102
+Inserito documento 1721281 in cluster 105
+Inserito documento 1721620 in cluster 105
+Inserito documento 1722519 in cluster 137
+Inserito documento 1723107 in cluster 143
+Inserito documento 1723269 in cluster 143
+Document Clusters (after link control) :::109
+Document Clusters (after link control and merge) :::107
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1723968, 1724074, 1724607, 1721260, 1721957, 1723962, 1724199, 1723970]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724628, 1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723270, 1724592, 1722155, 1722663, 1724677, 1722156, 1723837, 1724569, 1724537, 1724417, 1723108, 1722818, 1722819]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1722950, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723867, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1721461, 1721284, 1720795, 1720793, 1720781, 1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721607, 1722718, 1722927]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1722229, 1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1723403, 1724181, 1723181, 1723413, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388, 1724147]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723117, 1723648, 1723279, 1724215, 1724113]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724107, 1724092, 1724209, 1724104, 1724236, 1723698]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1722515, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721281, 1721280, 1721619, 1721620]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1722519, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1723107, 1722010, 1723269]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- ALGORITHM EVALUATION ---Clustered documents: 500
+Not clustered documents: 3232
+possible TRUE POSITIVE: 489
+possible FALSE POSITIVE: 11
+possible FALSE NEGATIVE: 500
+possible TRUE NEGATIVE: 2732
+TotBonds: 1438
+TotBonds: 1438   Same channel: 728   Different channel: 710
+Same newspaper: 570   Different newspaper: 868
+2018-03-30 1
+--- LOADING DOCUMENTS ---
+3895 documents are loaded.
+--- FILTERING ---
+3732 documents remained after filtering small documents (Documents removed: 163 ( 28 twitter, 8 sito, 127 facebook)).
+--- CLUSTERING WITH LINKS ---
+Document clusters with shared link: 132
+Documents in link cluster: 295
+TotBonds: 204
+TotBonds: 204   Same channel: 119   Different channel: 85
+Same newspaper: 188   Different newspaper: 16
+--- BUILDING GRAPH ---
+2808 documents REMAINED after nodes and edges filtering.
+924 documents DELETED after nodes and edges filtering.
+N° nodes: 1178
+N° edges: 543
+--- EXTRACT COMMUNITIES ---
+Find Communities: 5 nodes
+€™orrore, ossa, pamela, pozzo, oseghale, 
+Find Communities: 5 nodes
+rock, stile, svariati, solista, sperimentando, 
+Find Communities: 10 nodes
+uccisi, violenti, scritte, testa, sbarrata, roberto, spada, ritrovato, spagnolo, stravagante, 
+Find Communities: 10 nodes
+scava, serie, resti, trova, tesoro, tezo, rodriguez, turno, scomparso, terza, 
+Find Communities: 8 nodes
+sbilancia, ragazzi, riferire, sa, scudetto, tramite, torino, sentiva, 
+Find Communities: 6 nodes
+stabilizzazione, sgroi, reddito, scrive, sottoccupati, sembrano, 
+Find Communities: 10 nodes
+risposte, terremoto, rosse, siena, responsabili, senese, sindaci, responsabilitã , salvini, scossa, 
+Find Communities: 15 nodes
+spagna, soggiorno, stampa, real, scena, sicuro, speciale, roma, re, tratto, sfida, tassa, sorvegliata, spero, strada, 
+Find Communities: 5 nodes
+turchia, scalo, rimasti, sicurezza, tir, 
+Find Communities: 8 nodes
+sky, terrestre, tv, servita, sistema, satellite, tycoon, storico, 
+Find Communities: 8 nodes
+stazione, tecnico, ritardi, tiangong1, spaziale, termine, tiangong, rientro, 
+Find Communities: 3 nodes
+istanbul, italia, huffpost, 
+Find Communities: 3 nodes
+racconto, radiomobile, salvato, 
+Find Communities: 10 nodes
+migrazioni, leader, luigi, lasciato, m5s, leggenda, matteo, marina, locale, legi, 
+Find Communities: 6 nodes
+maggiorato, mamma, muore, medici, lavorava, maurizio, 
+Find Communities: 14 nodes
+militato, morendo, luoghi, on, nato, morã¬, musicali, mondo, my, marzo, lunghi, nasce, novecento, numero, 
+Find Communities: 10 nodes
+play, napoli, moggi, playâ, motivi, macellai, obbligato, mister, milan, off, 
+Find Communities: 10 nodes
+napoli, olanda, pubblicato, private, papa, poesie, originali, panorama, operato, paura, 
+Find Communities: 2 nodes
+rompono, succede, 
+Find Communities: 2 nodes
+santo, rito, 
+Find Communities: 13 nodes
+collaborato, corsa, clapton, artista, annoverato, cream, affermarsi, blues, chitarra, acclamati, arco, carriera, augura, 
+Find Communities: 13 nodes
+dramma, dolcissimo, divenuto, cantautore, califano, etã , considerano, disegno, dipinti, complesso, carriera, canzoni, discreto, 
+Find Communities: 13 nodes
+compiere, collaborato, contestato, copia, eurovision, go, eux, dion, canadese, celine, francofono, cantante, colonna, 
+Find Communities: 4 nodes
+indimenticabile, iniziativa, go, heart, 
+Find Communities: 3 nodes
+studente, ragazzine, ricattateâ, 
+Find Communities: 4 nodes
+ð½, ð²ð, ñ?, ðµ, 
+Find Communities: 13 nodes
+chiuso, bus, aeroporto, concept, confronti, craxi, crucis, disabili, dedicata, colosseo, devo, difensore, costretti, 
+Find Communities: 3 nodes
+bloccati, calolziocorte, dirette, 
+Find Communities: 2 nodes
+espulsi, diplomatici, 
+Find Communities: 2 nodes
+tirrenia, spiaggia, 
+Find Communities: 3 nodes
+promozione, onu, proposto, 
+Find Communities: 2 nodes
+cnn, dipendente, 
+Find Communities: 8 nodes
+casco, capitale, entrate, empoli, diventare, frosinone, ciclomotori, calo, 
+Find Communities: 4 nodes
+carabinieri, decisione, cori, denunciato, 
+Find Communities: 2 nodes
+€™ordine, provinciale, 
+Find Communities: 2 nodes
+pugilato, oro, 
+Find Communities: 6 nodes
+correre, elezioni, berlusconi, clamorosa, accordo, decidere, 
+Find Communities: 13 nodes
+corte, dg, discarica, elezioni, esclusiva, consigli, comunali, dolce, delibera, conti, comune, decreto, domenica, 
+Find Communities: 7 nodes
+cade, bari, aggredirono, casa, cittadella, dossier, distacco, 
+Find Communities: 2 nodes
+cancelli, caos, 
+Find Communities: 2 nodes
+squadre, ricorda, 
+Find Communities: 4 nodes
+batshuayi, chants, commentato, attaccante, 
+Find Communities: 6 nodes
+trend, rosa, tonic, vegan, uova, salito, 
+Find Communities: 11 nodes
+br, €™aeroflot, appena, blitz, blindata, boss, arrestato, assalto, atterrata, aereo, bancomat, 
+Find Communities: 12 nodes
+conferenza, capi, brigadiere, donna, #bolognaâ, cittã , disse, avvocato, bollino, aguzzino, cercata, bologna, 
+Find Communities: 6 nodes
+emergenza, club, disponibili, barcellona, chiamati, convocati, 
+Find Communities: 3 nodes
+cavallo, dolomiti, corones, 
+Find Communities: 3 nodes
+bilancio, confine, day, 
+Find Communities: 3 nodes
+servosterzo, tesla, richiama, 
+Find Communities: 3 nodes
+scagiona, twitter, uefa, 
+Find Communities: 3 nodes
+russa, skripal, scotlan, 
+Find Communities: 2 nodes
+finanziarie, guai, 
+Find Communities: 2 nodes
+investire, hotel, 
+Find Communities: 3 nodes
+medicina, lacrime, messaggeri, 
+Find Communities: 6 nodes
+torna, scappano, sicilia, stadium, under, siria, 
+Find Communities: 7 nodes
+casse, costa, documento, bando, criminale, crescita, ancona, 
+Find Communities: 7 nodes
+#camorraâ, corpo, broker, cartello, diversi, camorra, colpiscono, 
+Find Communities: 2 nodes
+finale, gran, 
+Find Communities: 2 nodes
+nicki, mack, 
+Find Communities: 2 nodes
+espelle, funzionario, 
+Find Communities: 2 nodes
+primavera, osservata, 
+Find Communities: 4 nodes
+barone, don, esorcista, contatti, 
+Find Communities: 2 nodes
+commemorare, disposto, 
+Find Communities: 3 nodes
+ducati, count, down, 
+Find Communities: 3 nodes
+pd, opposizione, provano, 
+Find Communities: 5 nodes
+debitori, banco, cambia, camaleonti, azzerano, 
+Find Communities: 4 nodes
+capitaneria, affonda, barca, capri, 
+Find Communities: 3 nodes
+hamsik, infermeria, hysaj, 
+Find Communities: 2 nodes
+apple, batteri, 
+Find Communities: 2 nodes
+basso, city, 
+Find Communities: 2 nodes
+#lacrime, #medicina, 
+Find Communities: 2 nodes
+elenco, facebook, 
+Find Communities: 2 nodes
+#chelsea, #bayern, 
+Find Communities: 3 nodes
+empolese, disagi, consegnata, 
+Find Communities: 2 nodes
+suocero, stupro, 
+Find Communities: 2 nodes
+ballottaggio, amministrative, 
+Find Communities: 6 nodes
+song, storia, successo, titanic, thompson, sonora, 
+Find Communities: 4 nodes
+riservate, ricovero, registrã², soccorso, 
+Find Communities: 5 nodes
+clou, chelsea, end, dortmund, bayern, 
+Find Communities: 4 nodes
+can, allegri, bianconero, bonucci, 
+Find Communities: 11 nodes
+fiamme, gaza, hamas, feriti, gas, eric, fuga, gruppo, famoso, €™esercito, fondi, 
+Find Communities: 4 nodes
+utilizzando, saint, tropez, tr, 
+Find Communities: 2 nodes
+trasferisce, umiliata, 
+Find Communities: 2 nodes
+aurelia, bolognesi, 
+Find Communities: 3 nodes
+schiave, reclutavano, sessuale, 
+Find Communities: 2 nodes
+furto, gabbie, 
+Find Communities: 2 nodes
+gennaio, fano, 
+Find Communities: 5 nodes
+festival, gaeta, giovani, grafico, felicitã , 
+Find Communities: 3 nodes
+sampdoria, risposteâ, riscatto, 
+Find Communities: 2 nodes
+outlet, noventa, 
+Find Communities: 2 nodes
+ritorno, svela, 
+Find Communities: 5 nodes
+fedeli, firme, gattuso, folla, guida, 
+Find Communities: 4 nodes
+partner, q8, perform, porsche, 
+Find Communities: 3 nodes
+forza, governo, fb, 
+Find Communities: 3 nodes
+giocare, fq, frase, 
+Find Communities: 3 nodes
+digitale, edizione, eccoti, 
+Find Communities: 3 nodes
+livelli, negozio, medita, 
+Find Communities: 2 nodes
+kluivert, jr, 
+Find Communities: 2 nodes
+india, jv, 
+Find Communities: 2 nodes
+attenzione, ballardini, 
+Find Communities: 2 nodes
+15mila, 20mila, 
+Find Communities: 2 nodes
+#napoli, #olanda, 
+Find Communities: 2 nodes
+balducci, andrew, 
+Find Communities: 2 nodes
+carnevali, dichiarazioni, 
+Find Communities: 5 nodes
+renziani, skrip, scontro, renzi, rivolta, 
+Find Communities: 3 nodes
+mosca, nega, londra, 
+Find Communities: 2 nodes
+chiusura, borsa, 
+Find Communities: 3 nodes
+ladri, messico, legale, 
+Find Communities: 2 nodes
+salerno, romaâ, 
+Find Communities: 6 nodes
+commissariata, correntisti, bcc, eccesso, difesa, cittanova, 
+Find Communities: 2 nodes
+laziale, magazzino, 
+Find Communities: 2 nodes
+natura, musei, 
+Find Communities: 2 nodes
+morti, land, 
+Find Communities: 2 nodes
+busta, carreno, 
+Find Communities: 7 nodes
+#beneventoâ, buco, arrivate, basata, alibi, benevento, crostacei, 
+Find Communities: 2 nodes
+detenuto, coeli, 
+Find Communities: 2 nodes
+attenti, berardi, 
+Find Communities: 2 nodes
+pranzo, offerte, 
+Find Communities: 2 nodes
+risarcimento, somalo, 
+Find Communities: 2 nodes
+bimbe, choc, 
+Find Communities: 5 nodes
+maggiorenni, operaio, obbligatorio, prognosi, normativa, 
+Find Communities: 2 nodes
+dentiâ, coltello, 
+Find Communities: 3 nodes
+sabato, regione, temporali, 
+Find Communities: 2 nodes
+los, mette, 
+Find Communities: 2 nodes
+#scotlandyard, #russia, 
+Find Communities: 4 nodes
+fermo, fair, giocatori, genoa, 
+Find Communities: 3 nodes
+quirico, persone, orcia, 
+Find Communities: 2 nodes
+beneâ, carica, 
+Find Communities: 2 nodes
+determinato, cutrone, 
+Find Communities: 2 nodes
+ovest, nba, 
+Find Communities: 3 nodes
+incidere, juventus, ioâ, 
+Find Communities: 2 nodes
+#serieb, #rodriguez, 
+Find Communities: 2 nodes
+oroscopo, prevede, 
+Find Communities: 2 nodes
+guardia, finanziamento, 
+Find Communities: 2 nodes
+intenzionato, insiste, 
+Find Communities: 2 nodes
+macerata, lesioni, 
+Find Communities: 2 nodes
+#spagna, #realmadrid, 
+Find Communities: 3 nodes
+assenza, crotone, badelj, 
+Find Communities: 2 nodes
+turista, san, 
+Find Communities: 2 nodes
+inter, juve, 
+Find Communities: 3 nodes
+schwarzenegger, urgenza, terminator, 
+Find Communities: 2 nodes
+social, risponde, 
+Find Communities: 3 nodes
+silvio, riabilitazione, riporta, 
+Find Communities: 2 nodes
+vigilia, wolverine, 
+Find Communities: 2 nodes
+milano, lombardia, 
+Find Communities: 2 nodes
+#allegri, #bonucci, 
+Find Communities: 2 nodes
+ormoni, pillola, 
+Find Communities: 2 nodes
+riacceso, serrone, 
+Find Communities: 2 nodes
+adescate, accusato, 
+Find Communities: 3 nodes
+€™appello, bellenger, capodimonte, 
+Find Communities: 2 nodes
+giallorosso, francesco, 
+Find Communities: 2 nodes
+selvatico, ritraggono, 
+Find Communities: 2 nodes
+animali, amici, 
+Find Communities: 2 nodes
+#terminator, #schwarzenegger, 
+Find Communities: 2 nodes
+associazioni, bambini, 
+Find Communities: 3 nodes
+venduta, willie, vittoria, 
+Find Communities: 2 nodes
+superiore, rino, 
+Find Communities: 2 nodes
+magico, notte, 
+Find Communities: 2 nodes
+predatori, odore, 
+Find Communities: 3 nodes
+sedie, tara, tariffe, 
+Find Communities: 2 nodes
+alisson, #alissonâ, 
+Find Communities: 2 nodes
+culturali, ben, 
+Find Communities: 2 nodes
+allarmante, bomba, 
+Find Communities: 2 nodes
+cari, denti, 
+2795 documents are in the extracted communities.
+13 documents are not in the extracted communities.
+Communities size after extractCommunities: 164
+Document Clusters (after extractClustersFromKeyCommunity) :::127
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1721669, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.21 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.22 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.23 	[1722706, 1723578, 1723699]
+DocumentCluster n.24 	[1722706, 1723578, 1723699]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.28 	[1721700, 1721702, 1721695]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1723218, 1723576, 1721728]
+DocumentCluster n.60 	[1722952, 1724626, 1723388]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.71 	[1724213, 1724111]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.77 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.78 	[1721461, 1721607, 1722718]
+DocumentCluster n.79 	[1722043, 1722057]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.84 	[1724706, 1722937, 1724656]
+DocumentCluster n.85 	[1722316, 1723162, 1723576, 1721728, 1722660]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.112 	[1723378, 1722220]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.120 	[1723360, 1723364]
+DocumentCluster n.121 	[1721461, 1721607, 1722718]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.124 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.149 	[1722206, 1721275, 1722202]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1722634, 1724476]
+DocumentCluster n.153 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.154 	[1724108, 1724090, 1724210]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- MERGE SIMILAR CLUSTERS ---
+Document Clusters (after mergeSimilarClusters) :::109
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1724074, 1724607, 1721260, 1721957, 1724199]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723837, 1724592, 1724569, 1724537, 1724417, 1722155, 1722663, 1724677, 1722818, 1722819, 1722156]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1720763, 1720956, 1721461, 1721607, 1722718, 1720795, 1720793, 1720781]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.39 	[1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721284, 1720795, 1722927, 1720793, 1720781]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1724181, 1723181, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723648]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724092, 1724209, 1724104, 1724236]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.98 	[1723163, 1723403, 1723181, 1723413]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721280, 1721619]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1722010]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- LINK CONTROL ---
+Inserito documento 1723970 in cluster 7
+Inserito documento 1723962 in cluster 7
+Inserito documento 1723968 in cluster 7
+Inserito documento 1724628 in cluster 10
+Inserito documento 1723108 in cluster 11
+Inserito documento 1723270 in cluster 11
+Inserito documento 1722950 in cluster 15
+Inserito documento 1723867 in cluster 17
+Inserito documento 1722229 in cluster 37
+Inserito documento 1724147 in cluster 51
+Inserito documento 1723117 in cluster 81
+Inserito documento 1723279 in cluster 81
+Inserito documento 1724113 in cluster 81
+Inserito documento 1724215 in cluster 81
+Inserito documento 1724107 in cluster 86
+Inserito documento 1723698 in cluster 86
+Inserito documento 1722515 in cluster 102
+Inserito documento 1721281 in cluster 105
+Inserito documento 1721620 in cluster 105
+Inserito documento 1722519 in cluster 137
+Inserito documento 1723107 in cluster 143
+Inserito documento 1723269 in cluster 143
+Document Clusters (after link control) :::109
+Document Clusters (after link control and merge) :::107
+DocumentCluster n.1 	[1721480, 1721051, 1721055, 1724138, 1724143, 1721058, 1724475, 1721046, 1721243, 1724245, 1721327, 1721248, 1723834, 1721718]
+DocumentCluster n.2 	[1723797, 1722632, 1722471, 1721433]
+DocumentCluster n.3 	[1722914, 1723986, 1724613, 1721727, 1724291, 1721905, 1722905, 1721872, 1722906]
+DocumentCluster n.4 	[1722507, 1721489, 1723712, 1722072, 1721505, 1723192, 1722067, 1723586, 1722263, 1721510, 1721497, 1723441]
+DocumentCluster n.7 	[1723968, 1724074, 1724607, 1721260, 1721957, 1723962, 1724199, 1723970]
+DocumentCluster n.8 	[1722785, 1722770]
+DocumentCluster n.9 	[1724309, 1723429, 1721700, 1722745, 1724418, 1721702, 1724678, 1722476, 1721695]
+DocumentCluster n.10 	[1724628, 1724627, 1723846, 1724621, 1724303, 1724299]
+DocumentCluster n.11 	[1723270, 1724592, 1722155, 1722663, 1724677, 1722156, 1723837, 1724569, 1724537, 1724417, 1723108, 1722818, 1722819]
+DocumentCluster n.12 	[1720975, 1724359, 1722343]
+DocumentCluster n.13 	[1721249, 1721043, 1721240, 1721053]
+DocumentCluster n.14 	[1722327, 1723722, 1722752, 1723743, 1722791]
+DocumentCluster n.15 	[1723360, 1722396, 1722950, 1723364]
+DocumentCluster n.16 	[1720941, 1721467, 1721604]
+DocumentCluster n.17 	[1722248, 1722259, 1723867, 1723841, 1724463, 1724465]
+DocumentCluster n.18 	[1721106, 1723283, 1723106, 1721669, 1723268, 1721037]
+DocumentCluster n.19 	[1722978, 1722812, 1723232]
+DocumentCluster n.20 	[1723361, 1724536, 1721674]
+DocumentCluster n.23 	[1722706, 1722795, 1722796, 1723578, 1723699, 1723881, 1722793]
+DocumentCluster n.25 	[1722206, 1721275, 1722202]
+DocumentCluster n.26 	[1724660, 1724661, 1723078, 1724662, 1721981, 1724663]
+DocumentCluster n.27 	[1723607, 1721511, 1721483, 1721245, 1724168]
+DocumentCluster n.29 	[1723319, 1723312, 1720981]
+DocumentCluster n.30 	[1722098, 1721261, 1722102, 1721650]
+DocumentCluster n.31 	[1724109, 1724211]
+DocumentCluster n.33 	[1721461, 1721284, 1720795, 1720793, 1720781, 1722935, 1722925, 1722205, 1720763, 1722926, 1720956, 1721607, 1722718, 1722927]
+DocumentCluster n.35 	[1721017, 1724131, 1723227]
+DocumentCluster n.36 	[1724706, 1722937, 1724313, 1724656, 1724321]
+DocumentCluster n.37 	[1722229, 1721304, 1721147]
+DocumentCluster n.38 	[1724281, 1722078, 1721880, 1723124, 1724127, 1724023, 1723530, 1721881, 1724278, 1722934, 1721447, 1721027, 1721804, 1722931, 1721737, 1722933, 1722929]
+DocumentCluster n.40 	[1722171, 1721481]
+DocumentCluster n.43 	[1722007, 1722114]
+DocumentCluster n.44 	[1721634, 1721733, 1721940, 1724098, 1721428, 1721917, 1723884, 1724137, 1721916, 1721861, 1721860]
+DocumentCluster n.46 	[1723163, 1722831, 1723403, 1724181, 1723181, 1723413, 1724267]
+DocumentCluster n.47 	[1723378, 1722220]
+DocumentCluster n.49 	[1723904, 1722227, 1722153, 1724264, 1724178]
+DocumentCluster n.51 	[1724151, 1722952, 1724626, 1723388, 1724147]
+DocumentCluster n.54 	[1724213, 1724111]
+DocumentCluster n.55 	[1721852, 1722221, 1721849]
+DocumentCluster n.56 	[1721503, 1722305, 1722063, 1721328, 1721494, 1721509, 1721486, 1722980]
+DocumentCluster n.58 	[1722250, 1722260, 1723001]
+DocumentCluster n.59 	[1722316, 1723162, 1723218, 1723576, 1721728, 1722660]
+DocumentCluster n.61 	[1724020, 1722403, 1722954]
+DocumentCluster n.62 	[1722746, 1721773]
+DocumentCluster n.64 	[1724183, 1722832, 1724269]
+DocumentCluster n.65 	[1722816, 1722271, 1723976, 1724604, 1723967, 1723406]
+DocumentCluster n.66 	[1721898, 1723271, 1721605, 1721307, 1723109, 1723421, 1723314]
+DocumentCluster n.67 	[1724739, 1724734, 1724731]
+DocumentCluster n.69 	[1722739, 1722806, 1721741]
+DocumentCluster n.70 	[1722789, 1723400, 1723411, 1722774]
+DocumentCluster n.72 	[1722958, 1722953, 1724017]
+DocumentCluster n.73 	[1722043, 1722057]
+DocumentCluster n.74 	[1722192, 1722188, 1721653]
+DocumentCluster n.75 	[1724735, 1724769, 1724759, 1724535, 1724594, 1724740]
+DocumentCluster n.76 	[1723969, 1723427, 1722240]
+DocumentCluster n.80 	[1723003, 1722466]
+DocumentCluster n.81 	[1724670, 1723117, 1723648, 1723279, 1724215, 1724113]
+DocumentCluster n.82 	[1723118, 1723338, 1723280, 1721819, 1723210]
+DocumentCluster n.83 	[1724738, 1724521, 1724412, 1724533, 1724733]
+DocumentCluster n.86 	[1724107, 1724092, 1724209, 1724104, 1724236, 1723698]
+DocumentCluster n.87 	[1722508, 1722514, 1722490, 1723187, 1723188]
+DocumentCluster n.88 	[1722328, 1722753, 1722790]
+DocumentCluster n.89 	[1723150, 1723177]
+DocumentCluster n.90 	[1722802, 1723706, 1724242]
+DocumentCluster n.91 	[1723212, 1723340, 1722829]
+DocumentCluster n.92 	[1724736, 1724741]
+DocumentCluster n.93 	[1722191, 1721818, 1722087]
+DocumentCluster n.94 	[1724173, 1723889, 1724002]
+DocumentCluster n.97 	[1721725, 1721724, 1721332]
+DocumentCluster n.99 	[1724180, 1723906, 1724266]
+DocumentCluster n.100 	[1723152, 1723178, 1724201]
+DocumentCluster n.101 	[1724051, 1724646, 1721199]
+DocumentCluster n.102 	[1724142, 1722085, 1722515, 1724156]
+DocumentCluster n.103 	[1723914, 1723709, 1724244]
+DocumentCluster n.105 	[1721281, 1721280, 1721619, 1721620]
+DocumentCluster n.107 	[1721316, 1721170, 1721173, 1721321]
+DocumentCluster n.108 	[1722106, 1722903, 1722783, 1723367, 1722066, 1722894]
+DocumentCluster n.109 	[1724273, 1724277]
+DocumentCluster n.110 	[1723817, 1724019, 1722844, 1722735, 1723424]
+DocumentCluster n.111 	[1723993, 1723995, 1723984]
+DocumentCluster n.114 	[1721958, 1722034, 1721780, 1722053]
+DocumentCluster n.116 	[1720946, 1721871, 1721265]
+DocumentCluster n.119 	[1724030, 1723832, 1723401, 1723412, 1722973, 1723077, 1723385]
+DocumentCluster n.122 	[1723180, 1723157]
+DocumentCluster n.123 	[1722591, 1722585, 1722596, 1723168, 1722564, 1722597, 1723236, 1722588, 1722566, 1722555, 1722599, 1722570, 1722593, 1722583, 1723320, 1722595, 1722589, 1722600, 1722721]
+DocumentCluster n.127 	[1721090, 1721073, 1724193, 1723660, 1723673]
+DocumentCluster n.130 	[1722054, 1722035]
+DocumentCluster n.132 	[1723345, 1723335]
+DocumentCluster n.133 	[1721459, 1721238, 1721108, 1721277]
+DocumentCluster n.134 	[1722150, 1723199, 1722014]
+DocumentCluster n.137 	[1723281, 1722519, 1723205, 1723119]
+DocumentCluster n.138 	[1722556, 1723668, 1722575, 1724006, 1723662]
+DocumentCluster n.140 	[1721712, 1722414, 1723056]
+DocumentCluster n.141 	[1724140, 1723887, 1724108, 1723734, 1723703, 1723842, 1724090, 1724238, 1724210]
+DocumentCluster n.143 	[1722117, 1723107, 1722010, 1723269]
+DocumentCluster n.144 	[1723925, 1723923, 1724755]
+DocumentCluster n.145 	[1723825, 1722219, 1723374]
+DocumentCluster n.146 	[1723061, 1723169, 1723285]
+DocumentCluster n.147 	[1722119, 1722012]
+DocumentCluster n.148 	[1724427, 1724422, 1724697]
+DocumentCluster n.150 	[1722901, 1723964, 1722899, 1723352]
+DocumentCluster n.152 	[1723315, 1722634, 1724726, 1720909, 1720908, 1724476]
+DocumentCluster n.155 	[1722386, 1722928, 1724464, 1721420]
+DocumentCluster n.160 	[1722858, 1722859, 1723190, 1721846, 1723043]
+DocumentCluster n.162 	[1721854, 1723473, 1721177]
+DocumentCluster n.163 	[1722194, 1722888, 1722356, 1722211]
+DocumentCluster n.164 	[1723282, 1723120, 1724122]
+--- ALGORITHM EVALUATION ---Clustered documents: 500
+Not clustered documents: 3232
+possible TRUE POSITIVE: 489
+possible FALSE POSITIVE: 11
+possible FALSE NEGATIVE: 500
+possible TRUE NEGATIVE: 2732
+TotBonds: 1438
+TotBonds: 1438   Same channel: 728   Different channel: 710
+Same newspaper: 570   Different newspaper: 868
+Cluster aggiunti 108
+Total time: 0.5430166666666667	Loading documents time: 0.13971666666666666	Clustering time: 0.4033
+------------ DONE! ------------
+
+

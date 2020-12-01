@@ -70,7 +70,7 @@ public class GraphAnalyze {
 		TreeMap<Double, String> sortedTfMap = new TreeMap<Double, String>();
 		for(Node n: graphNodes.values())
 			sortedTfMap.put(n.keyword.tf, n.keyword.word);
-		File output = new File("/tmp/keygraph_output/keywordsSortedByTf.txt");
+		File output = new File("./tmp_keygraph_output/keywordsSortedByTf.txt");
     	try {
 			output.createNewFile();
 			DataOutputStream keywordsout = new DataOutputStream(new FileOutputStream(output));
@@ -89,7 +89,7 @@ public class GraphAnalyze {
     	TreeMap<Double, String> sortedDfMap = new TreeMap<Double, String>();
 		for(Node n: graphNodes.values())
 			sortedDfMap.put(DF.get(n.keyword.baseForm), n.keyword.word);
-		File output1 = new File("/tmp/keygraph_output/keywordsSortedByDf.txt");
+		File output1 = new File("./tmp_keygraph_output/keywordsSortedByDf.txt");
     	try {
 			output1.createNewFile();
 			DataOutputStream keywordsout1 = new DataOutputStream(new FileOutputStream(output1));
@@ -635,8 +635,8 @@ public class GraphAnalyze {
 	 */
 	public void printGraph(HashMap<String, Node> nodes, HashMap<String, Double> DF) {
 		try {
-			DataOutputStream nout = new DataOutputStream(new FileOutputStream("/tmp/keygraph_output/node.txt"));
-			DataOutputStream eout = new DataOutputStream(new FileOutputStream("/tmp/keygraph_output/edge.txt"));
+			DataOutputStream nout = new DataOutputStream(new FileOutputStream("./tmp_keygraph_output/node.txt"));
+			DataOutputStream eout = new DataOutputStream(new FileOutputStream("./tmp_keygraph_output/edge.txt"));
 			printGraph(nodes, nout, eout, DF);
 			nout.close();
 			eout.close();
@@ -648,8 +648,8 @@ public class GraphAnalyze {
 
 	public void printGraph(ArrayList<HashMap<String, Node>> communities, HashMap<String, Double> DF) {
 		try {
-			DataOutputStream nout = new DataOutputStream(new FileOutputStream("/tmp/keygraph_output/node.txt"));
-			DataOutputStream eout = new DataOutputStream(new FileOutputStream("/tmp/keygraph_output/edge.txt"));
+			DataOutputStream nout = new DataOutputStream(new FileOutputStream("./tmp_keygraph_output/node.txt"));
+			DataOutputStream eout = new DataOutputStream(new FileOutputStream("./tmp_keygraph_output/edge.txt"));
 			for (HashMap<String, Node> nodes : communities)
 				printGraph(nodes, nout, eout, DF);
 			nout.close();
@@ -769,7 +769,7 @@ public class GraphAnalyze {
 							TreeMap<Double, String> sortedTfMap = new TreeMap<Double, String>();
 							for(Node n: graphNodes.values())
 								sortedTfMap.put(n.keyword.tf, n.keyword.word);
-							File output = new File("/tmp/keygraph_output/keywordsSortedByTf_link.txt");
+							File output = new File("./tmp_keygraph_output/keywordsSortedByTf_link.txt");
 					    	try {
 								output.createNewFile();
 								DataOutputStream keywordsout = new DataOutputStream(new FileOutputStream(output));
@@ -788,7 +788,7 @@ public class GraphAnalyze {
 					    	TreeMap<Double, String> sortedDfMap = new TreeMap<Double, String>();
 							for(Node n: graphNodes.values())
 								sortedDfMap.put(DF.get(n.keyword.baseForm), n.keyword.word);
-							File output1 = new File("/tmp/keygraph_output/keywordsSortedByDf_link.txt");
+							File output1 = new File("./tmp_keygraph_output/keywordsSortedByDf_link.txt");
 					    	try {
 								output1.createNewFile();
 								DataOutputStream keywordsout1 = new DataOutputStream(new FileOutputStream(output1));

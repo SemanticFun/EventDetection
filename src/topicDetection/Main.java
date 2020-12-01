@@ -154,16 +154,16 @@ public class Main {
 		
 		long time1 = System.currentTimeMillis();
 		
-		if (Files.notExists(Paths.get("tmp/keygraph_output"))){
-			File dir = new File("/tmp/keygraph_output");
+		if (Files.notExists(Paths.get("./tmp_keygraph_output"))){
+			File dir = new File("./tmp_keygraph_output");
 			dir.mkdir();
 		}
 		new WriteConsole("--- LOADING DOCUMENTS ---" + "\n");
-		File output = new File("/tmp/keygraph_output/docs.txt");
+		File output = new File("./tmp_keygraph_output/docs.txt");
     	output.createNewFile();
     	DataOutputStream docout = new DataOutputStream(new FileOutputStream(output));
     	docout.writeBytes("DOC_ID\tKEYWORDS\tHASHTAG\tMENTION\tURL\n");
-    	File output_remove = new File("/tmp/keygraph_output/remove.txt");
+    	File output_remove = new File("./tmp_keygraph_output/remove.txt");
     	output_remove.createNewFile();
     	DataOutputStream remove = new DataOutputStream(new FileOutputStream(output_remove));
     	remove.writeBytes("DocId\tHashtag,Mention,Url\n");
@@ -183,7 +183,7 @@ public class Main {
     	for(DocumentClusterLink dc: documentClustersLink)
     		docLinkCluster+= dc.docs.size();
     	new WriteConsole("Documents in link cluster: " + docLinkCluster + "\n");
-		File linkCluster = new File("/tmp/keygraph_output/clustering_with_links.txt");
+		File linkCluster = new File("./tmp_keygraph_output/clustering_with_links.txt");
     	linkCluster.createNewFile();
     	DataOutputStream linkClusters = new DataOutputStream(new FileOutputStream(linkCluster));
     	linkClusters.writeBytes("Document clusters with shared link: " + documentClustersLink.size() + "\n");
@@ -220,7 +220,7 @@ public class Main {
 		new WriteConsole("Clustered documents: " + clustered + "\nNot clustered documents: " + notClustered + "\n");
 		
 		/* File containing a list of clustered documents. */
-		File output1 = new File("/tmp/keygraph_output/clustered_documents.txt");
+		File output1 = new File("./tmp_keygraph_output/clustered_documents.txt");
     	output1.createNewFile();
     	DataOutputStream docout1 = new DataOutputStream(new FileOutputStream(output1));
     	for(Document d: clusteredDocuments.values()){
@@ -229,7 +229,7 @@ public class Main {
     	docout1.close();
     	
     	/* File containing a list of not clustered documents. */
-    	File output11 = new File("/tmp/keygraph_output/not_clustered_documents.txt");
+    	File output11 = new File("./tmp_keygraph_output/not_clustered_documents.txt");
     	output11.createNewFile();
     	DataOutputStream docout11 = new DataOutputStream(new FileOutputStream(output11));
     	for(Document d: docs.values()){

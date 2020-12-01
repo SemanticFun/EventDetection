@@ -63,8 +63,8 @@ public class DB {
 		String user, pass, dbname, host;
 		int port;
 		
-		FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
-		//FileReader reader = new FileReader("./config.json");
+		//FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
+		FileReader reader = new FileReader("./config.json");
 		String fileContents = "";
 
 		int j;
@@ -137,8 +137,8 @@ public class DB {
 		String user, pass, dbname, host;
 		int port;
 		
-		FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
-		//FileReader reader = new FileReader("./config.json");
+		//FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
+		FileReader reader = new FileReader("./config.json");
 		String fileContents = "";
 		int j;
 		while ((j = reader.read()) != -1) {

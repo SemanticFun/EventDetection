@@ -38,8 +38,8 @@ public class Utils {
 		HashSet<String> stopwords = new HashSet<String>();
 		
 		//Lettura file di configurazione
-		FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
-		//FileReader reader = new FileReader("./config.json");
+		//FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
+		FileReader reader = new FileReader("./config.json");
 		String fileContents = "";
 		int j;
 		while ((j = reader.read()) != -1) {
