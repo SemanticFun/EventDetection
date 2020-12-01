@@ -82,7 +82,7 @@ public class Main {
 				System.out.println("parametri errati --> data illegale 1");
 				System.exit(1);
 			}
-			//controlli più fini sulla correttezza della data
+			//controlli piÃ¹ fini sulla correttezza della data
 			if (int_day > 30 && (int_month == 4 || int_month == 6 || int_month == 9 || int_month == 11)){
 				System.out.println("parametri errati --> data illegale 2");
 				System.exit(1);
@@ -114,7 +114,7 @@ public class Main {
 		new WriteConsole(date + " " + days + "\n");	
 		
 		//Lettura file di configurazione
-		FileReader reader = new FileReader("/home/tomcat/keygraph/config.json");
+		FileReader reader = new FileReader("config.json");
 		//FileReader reader = new FileReader("./config.json");
 		String fileContents = "";
 
@@ -154,7 +154,7 @@ public class Main {
 		
 		long time1 = System.currentTimeMillis();
 		
-		if (Files.notExists(Paths.get("tmp/keygrph_output"))){
+		if (Files.notExists(Paths.get("tmp/keygraph_output"))){
 			File dir = new File("/tmp/keygraph_output");
 			dir.mkdir();
 		}
